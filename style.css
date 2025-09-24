@@ -1,0 +1,12 @@
+#map
+{ 
+    height: 70vh; 
+    /* margin: auto; */
+    margin: 15px;
+}
+
+.btn1{
+    display:flex ;
+    justify-content: center;
+    width: 25px;
+}
