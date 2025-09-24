@@ -13,6 +13,10 @@ function findMe(){
         return;
     }
 };
+
+
 document.getElementById("btn1")
 
-// navigator.geolocation.
+navigator.geolocation.getCurrentPosition((location)=>{
+    console.log(location);
+});
